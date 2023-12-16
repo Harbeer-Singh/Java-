@@ -1,5 +1,5 @@
 # first
-this is my first git repository
+this is my java git repository
 <br>
 author  Harbeer singh()
 
